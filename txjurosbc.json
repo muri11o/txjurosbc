@@ -1,96 +1,96 @@
 {
   "SourceName": "Banco Central",
   "SourceLink": "https://www.bcb.gov.br/estatisticas/txjuros",
-  "LastUpdate": "2023-06-01T12:00:00",
+  "LastUpdate": "2024-09-01T12:00:00",
   "InterestRates": [
     {
       "FinancialInstitution": "CAIXA ECONOMICA FEDERAL",
-      "AnnualInterestRate": 9.96,
-      "MonthlylInterestRate": 0.79,
+      "AnnualInterestRate": 10.31,
+      "MonthlylInterestRate": 0.82,
       "Financingtype": 0
     },
     {
       "FinancialInstitution": "ITAÚ UNIBANCO S.A.",
-      "AnnualInterestRate": 10.52,
-      "MonthlylInterestRate": 0.84,
+      "AnnualInterestRate": 10.41,
+      "MonthlylInterestRate": 0.83,
       "Financingtype": 0
     },
 	{
       "FinancialInstitution": "BCO BRADESCO S.A.",
-      "AnnualInterestRate": 10.60,
-      "MonthlylInterestRate": 0.84,
+      "AnnualInterestRate": 10.65,
+      "MonthlylInterestRate": 0.85,
       "Financingtype": 0
     },
 	{
       "FinancialInstitution": "BCO DO BRASIL S.A.",
-      "AnnualInterestRate": 10.11,
+      "AnnualInterestRate": 10.10,
       "MonthlylInterestRate": 0.81,
       "Financingtype": 0
     },
 	{
       "FinancialInstitution": "BCO SANTANDER (BRASIL) S.A.",
-      "AnnualInterestRate": 11.44,
+      "AnnualInterestRate": 11.45,
       "MonthlylInterestRate": 0.91,
       "Financingtype": 0
     },
 	{
       "FinancialInstitution": "CAIXA ECONOMICA FEDERAL",
-      "AnnualInterestRate": 26.37,
-      "MonthlylInterestRate": 1.97,
+      "AnnualInterestRate": 20.58,
+      "MonthlylInterestRate": 1.57,
       "Financingtype": 1
     },
     {
       "FinancialInstitution": "ITAÚ UNIBANCO S.A.",
-      "AnnualInterestRate": 34.17,
-      "MonthlylInterestRate": 2.48,
+      "AnnualInterestRate": 24.75,
+      "MonthlylInterestRate": 1.86,
       "Financingtype": 1
     },
 	{
       "FinancialInstitution": "BCO BRADESCO S.A.",
-      "AnnualInterestRate": 22.49,
-      "MonthlylInterestRate": 1.71,
+      "AnnualInterestRate": 20.45,
+      "MonthlylInterestRate": 1.56,
       "Financingtype": 1
     },
 	{
       "FinancialInstitution": "BCO DO BRASIL S.A.",
-      "AnnualInterestRate": 25.60,
-      "MonthlylInterestRate": 1.92,
+      "AnnualInterestRate": 23.97,
+      "MonthlylInterestRate": 1.81,
       "Financingtype": 1
     },
 	{
       "FinancialInstitution": "BCO SANTANDER (BRASIL) S.A.",
-      "AnnualInterestRate": 31.66,
-      "MonthlylInterestRate": 2.32,
+      "AnnualInterestRate": 27.30,
+      "MonthlylInterestRate": 2.03,
       "Financingtype": 1
     },
 	{
       "FinancialInstitution": "CAIXA ECONOMICA FEDERAL",
-      "AnnualInterestRate": 37.59,
-      "MonthlylInterestRate": 2.70,
+      "AnnualInterestRate": 27.05,
+      "MonthlylInterestRate": 2.02,
       "Financingtype": 2
     },
     {
       "FinancialInstitution": "ITAÚ UNIBANCO S.A.",
-      "AnnualInterestRate": 58.13,
-      "MonthlylInterestRate": 3.89,
+      "AnnualInterestRate": 40.86,
+      "MonthlylInterestRate": 2.90,
       "Financingtype": 2
     },
 	{
       "FinancialInstitution": "BCO BRADESCO S.A.",
-      "AnnualInterestRate": 127.51,
-      "MonthlylInterestRate": 7.09,
+      "AnnualInterestRate": 38.25,
+      "MonthlylInterestRate": 2.74,
       "Financingtype": 2
     },
 	{
       "FinancialInstitution": "BCO DO BRASIL S.A.",
-      "AnnualInterestRate": 63.82,
-      "MonthlylInterestRate": 4.20,
+      "AnnualInterestRate": 27.48,
+      "MonthlylInterestRate": 2.04,
       "Financingtype": 2
     },
 	{
       "FinancialInstitution": "BCO SANTANDER (BRASIL) S.A.",
-      "AnnualInterestRate": 75.90,
-      "MonthlylInterestRate": 4.82,
+      "AnnualInterestRate": 39.98,
+      "MonthlylInterestRate": 2.84,
       "Financingtype": 2
     }
   ]
